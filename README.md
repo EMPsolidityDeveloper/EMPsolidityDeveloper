@@ -1,3 +1,4 @@
+🔗 [LinkedIn](https://linkedin.com/in/petrvitasek)📍 Prague | 📧 empsolidity@gmail.com | 🐦 x.com/empvision 
 # Azure + AI + Web3 Expert Portfolio  
 *by Petr Vitásek (@EMPsolidityDeveloper)*
 
