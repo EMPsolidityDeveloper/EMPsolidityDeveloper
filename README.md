@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EMPsolidityDeveloper
-- 👀 I’m interested in web3 space, especially in Solidity or Rust
-- 🌱 I’m currently learning all whole web3 new world (Solidity, Rust or Move)
-- 💞️ I’m looking to collaborate on web3 projects
+- 👀 I’m interested in web3 space, especially in Solidity
+- 🌱 I’m currently learning AI, Azure and Solidity
+- 💞️ I’m looking to collaborate on AI, Azure and web3 project or combined
 - 📫 You can contact me on empsolidity@gmail.com or empvision on [Twitter](https://twitter.com/empvision)
 
 <!---
