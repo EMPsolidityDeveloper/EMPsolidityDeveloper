@@ -23,6 +23,7 @@
 - [ ] Blockchain Specialization
 - [ ] Certified Ethereum Developer (CED)
 - [ ] Blockchain Developer Nanodegree
+- [ ] AZ-204 (Azure Developer Associate)
 - [ ] AZ-900 (Azure Fundamentals)  
 - [ ] AI-900 (Azure AI Fundamentals)  
 - [ ] AI-102 (Azure AI Engineer)  
