@@ -40,6 +40,7 @@ Procházím strukturovanou roadmapou – každý měsíc = nový skill + deployo
 | Blockchain Fundamentals | Microsoft Learn | Absolvováno | Ethereum Basics + .NET Tips |
 | Certified Ethereum Developer | Blockchain Council | Plánováno (po M6) | EVM, React Integrace |
 | Certified Blockchain Security Expert (CBSE) | 101 Blockchains | Plánováno (po M7) | AI-Web3 Security (Prompt Injection) |
+| Microsoft Certified: Azure Solutions Architect Expert (AZ-305) | Microsoft | Plánováno (po M12) | Design Azure solutions s AI/Web3 – spojí tvůj .NET s enterprise cloudem. |
 
 **Core Skills:**  
 - **Backend:** .NET Core, Nethereum, ML.NET (AI predictions).  
@@ -51,9 +52,9 @@ Procházím strukturovanou roadmapou – každý měsíc = nový skill + deployo
 ---
 
 ## 💼 Co Hledám?
-- **Role:** Junior Web3 Full-Stack Dev / AI-Web3 Engineer (remote, EU/US).  
-- **Zájmy:** DeFi protocols, AI agents na blockchainu, .NET enterprise integrace.  
-- **Dostupnost:** Od července 2026 (po M8).  
+- **Role:** Junior Web3 Full-Stack Dev / AI-Web3 Engineer (remote, EU/US) / Azure Solution Architect / AI Engineer.  
+- **Zájmy:** DeFi protocols, AI agents na blockchainu, .NET enterprise integrace, Azure Architecture, AI
+- **Dostupnost:** Od července 2026 (po M12).  
 - **Kontakt:**  
   - 📧 [empsolidity@gmail.com](mailto:empsolidity@gmail.com)  
   - 💼 [LinkedIn](https://linkedin.com/in/petrvitasek)  
@@ -68,6 +69,6 @@ Procházím strukturovanou roadmapou – každý měsíc = nový skill + deployo
 
 ---
 
-*Last update: 14. 11. 2025*
+*Last update: 16. 11. 2025*
 
 
