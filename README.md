@@ -1,7 +1,6 @@
-# 📋 Web3 & Azure AI Roadmapa pro .NET Developera (2025-2026) – Start Listopad 2025
+# 📋 Web3 & Azure AI & .NET Developer (2025-2026)
 
-- **Background:** 10+ let v .NET (C#, ASP.NET Core), teď se učím Solidity pro smart contracts, React pro dApps a Nethereum pro Ethereum integrace.
-- **Fokus:** Full-stack Web3 appky s security (audits, Slither) a nově **AI-Web3 hybridy** (AI-generated NFTs, predictive DeFi agents).
+- **Background:** 10+ let v .NET (C#, ASP.NET Core), teď se učím Solidity pro smart contracts, React pro dApps a Nethereum pro Ethereum integrace a na certifikaci Azure Solution Architecta s AI AZ-305.
 - **Cíl:** Web3 (Solidity, React, .NET) + AI/Web3 hybridy + Azure Solution Architect s AI přesahem (AZ-305 cert).
 - **Aktuální Status:** Podstupuji 12měsíční roadmapu (start 17.11.2025). Sleduj můj progres na [X/Twitter](https://x.com/empvision) nebo [LinkedIn](https://linkedin.com/in/jan-dotnet-web3).
 
