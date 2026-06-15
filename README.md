@@ -1,71 +1,121 @@
-# 📋 Web3 & Azure AI & .NET Developer (2025-2026)
+# Petr Vitásek
 
-- **Background:** 10+ let v .NET (C#, ASP.NET Core), teď se učím Solidity pro smart contracts, React pro dApps a Nethereum pro Ethereum integrace a na certifikaci Azure Solution Architecta s AI AZ-305.
-- **Cíl:** Web3 (Solidity, React, .NET) + AI/Web3 hybridy + Azure Solution Architect s AI přesahem (AZ-305 cert).
-- **Aktuální Status:** Podstupuji 12měsíční roadmapu (start 17.11.2025). Sleduj můj progres na [X/Twitter](https://x.com/empvision) nebo [LinkedIn](https://linkedin.com/in/jan-dotnet-web3).
+## Enterprise .NET & AI Workflow Modernization
 
----
+I help modernize complex enterprise systems where **legacy .NET**, **WPF clients**, **WCF/RPC communication**, **SQL-heavy business logic** and long-lived internal tools need to evolve without breaking production.
 
-## 📅 Přehled Měsíců a Projektů
+My current focus is the intersection of:
 
-| Měsíc | Téma | Čas | Měsíční Projekt |
-|-------|------|-----|-----------------|
-| **1: Listopad 2025** | Základy blockchainu a Solidity basics | ~60h | Basic voting dApp – deploy na Sepolia, nahraj na GitHub. |
-| **2: Prosinec 2025** | Pokročilé Solidity + .NET/React intro | ~65h | Decentralized auction app s .NET backendem a React FE – deploy na Vercel. |
-| **3: Leden 2026** | Security v Solidity | ~60h | Secure lending protocol s audit reportem – React dashboard. |
-| **4: Únor 2026** | React FE pro Web3 | ~65h | DeFi dashboard v React – integrace s lending protokolem z M3. |
-| **5: Březen 2026** | Pokročilé .NET + Ethereum integrace | ~65h | Hybrid .NET + React app pro NFT marketplace – deploy backend na Azure. |
-| **6: Duben 2026** | Pokročilé projekty s React + .NET + job prep | ~70h | Multi-chain DAO tool s .NET backendem a React FE |
-| **7: Květen 2026** | Základy AI pro Web3 | ~60h | AI-Powered NFT Generator – AI vytváří NFTs na Ethereum, deploy s React FE. |
-| **8: Červen 2026** | Pokročilé Web3 + AI Projekty | ~65h | Predictive DeFi Agent s .NET Backendem – AI predikuje yields, integrace s Chainlink oracles. |
-| **9: Červenec 2026** | Azure Fundamentals & Infrastructure | ~60h | Azure Web3 Infra Setup – Virtual Machines pro Ethereum node + .NET API. |
-| **10: Srpen 2026** | Azure Networking & Security | ~60h | Secure Azure VNet pro DeFi App – Firewall + Key Vault pro Nethereum keys. |
-| **11: Září 2026** | Azure Data & AI Services | ~65h | AI-Enhanced NFT Analytics – Azure Cognitive Services pro image analysis + Cosmos DB. |
-| **12: Říjen 2026** | AZ-305 Exam Prep + AI Projects | ~70h | Full Azure Solution: AI-Web3 Pipeline – OpenAI pro DeFi insights, deploy na AKS. |
+- **Legacy .NET modernization** — .NET Framework 4.8 → modern .NET, WPF/WCF migration paths, architecture refactoring, CI/CD and maintainability.
+- **AI-assisted development workflows** — using ChatGPT, Codex, Lovable and agent-based workflows to speed up analysis, documentation, prototyping and implementation planning.
+- **Enterprise architecture** — splitting large systems into clearer modules, improving integration boundaries, documenting business logic and preparing safer migration strategies.
+- **Security remediation** — turning penetration-test findings into concrete technical remediation plans for real applications.
 
 ---
 
-## 🏆 Certifikáty & Skills
+## What I do
 
-**Absolvované/Plánované (2026):** Zaměřené na Web3 security + AI/.NET hybrid. Přidám badge po dokončení.
+I have 10+ years of experience in the Microsoft/.NET ecosystem, mainly around enterprise applications, internal systems and business-critical software.
 
-| Certifikát | Poskytovatel | Status | Skills Boost |
-|------------|--------------|--------|--------------|
-| Solidity Smart Contract Developer+ (SSCD+) | Cyfrin Updraft | Plánováno (po M3) | Solidity, Audits, Hardhat |
-| Microsoft Certified: Azure Developer Associate (AZ-204) | Microsoft | Plánováno (po M5) | .NET API, Azure ML pro AI-Web3 |
-| Certified Smart Contract Auditor | Blockchain Council | Plánováno (po M3) | Security Tools (Slither, Echidna) |
-| Blockchain Fundamentals | Microsoft Learn | Absolvováno | Ethereum Basics + .NET Tips |
-| Certified Ethereum Developer | Blockchain Council | Plánováno (po M6) | EVM, React Integrace |
-| Certified Blockchain Security Expert (CBSE) | 101 Blockchains | Plánováno (po M7) | AI-Web3 Security (Prompt Injection) |
-| Microsoft Certified: Azure Solutions Architect Expert (AZ-305) | Microsoft | Plánováno (po M12) | Design Azure solutions s AI/Web3 – spojí tvůj .NET s enterprise cloudem. |
+Recently I have been working on:
 
-**Core Skills:**  
-- **Backend:** .NET Core, Nethereum, ML.NET (AI predictions).  
-- **Blockchain:** Solidity 0.8+, OpenZeppelin, Chainlink Oracles.  
-- **Frontend:** React/Next.js, Ethers.js, Wagmi, Tailwind.  
-- **AI:** Hugging Face, LangChain, TensorFlow.js.  
-- **Tools:** Hardhat, Slither, Azure, Vercel, IPFS.
+- migration planning from **.NET Framework 4.8** to **.NET 9+**,
+- modernization of **WPF client applications** communicating with application servers through **WCF/RPC**,
+- analysis of large legacy solutions split into **core**, **business** and **client** layers,
+- custom ORM / SQL-heavy application architecture,
+- preparing technical instructions for **Codex** to analyze source code and propose safe changes,
+- converting security reports into actionable engineering plans,
+- experimenting with new AI-native product-development workflows using **ChatGPT + Codex + Lovable**.
 
 ---
 
-## 💼 Co Hledám?
-- **Role:** Junior Web3 Full-Stack Dev / AI-Web3 Engineer (remote, EU/US) / Azure Solution Architect / AI Engineer.  
-- **Zájmy:** DeFi protocols, AI agents na blockchainu, .NET enterprise integrace, Azure Architecture, AI
-- **Dostupnost:** Od července 2026 (po M12).  
-- **Kontakt:**  
-  - 📧 [empsolidity@gmail.com](mailto:empsolidity@gmail.com)  
-  - 💼 [LinkedIn](https://linkedin.com/in/petrvitasek)  
-  - 🐦 [X/Twitter](https://x.com/emsolidity)    
+## Current direction
+
+I am moving from a purely classic .NET developer profile toward a stronger role in:
+
+- **Solution Architecture**,
+- **AI-assisted software delivery**,
+- **legacy system modernization**,
+- **technical leadership**,
+- **secure enterprise application design**.
+
+My goal is to use AI tools pragmatically: not as a replacement for engineering judgment, but as leverage for faster analysis, documentation, migration planning and delivery.
 
 ---
 
-## 📫 **Kontakt**
-- Email: [empsolidity@gmail.com](mailto:empsolidity@gmail.com)  
-- Twitter: [@empvision](https://twitter.com/empvision)  
-- LinkedIn: [linkedin.com/in/petrvitasek](https://linkedin.com/in/petrvitasek)
+## Technical background
+
+### Core stack
+
+- C# / .NET Framework / .NET
+- WPF
+- WCF / RPC-style communication
+- MS SQL Server
+- proprietary ORM and data-access layers
+- IIS / Windows Server environments
+- Visual Studio / MSBuild / TFS / Git
+
+### Modernization & architecture
+
+- .NET 4.8 → .NET 9+ migration planning
+- modularization of large enterprise solutions
+- REST/gRPC migration thinking
+- CI/CD and build modernization
+- architecture documentation
+- security remediation planning
+
+### AI & developer tooling
+
+- ChatGPT
+- Codex
+- AI coding agents
+- Lovable prototyping workflow
+- prompt engineering for implementation plans
+- Markdown-based project instructions
+- AI-assisted documentation and code analysis
+
+### Additional interests
+
+- Azure architecture
+- DevSecOps
+- application security
+- Web3 / Solidity as a secondary long-term interest
 
 ---
 
-*Last update: 16. 11. 2025*
+## What I am building / documenting
 
+I am currently focusing on practical engineering assets such as:
 
+- modernization plans for legacy .NET applications,
+- Codex-ready task specifications,
+- security-remediation implementation plans,
+- architecture documentation for large enterprise systems,
+- AI-assisted workflows for faster prototyping and delivery.
+
+---
+
+## Positioning
+
+I am especially interested in projects where old but valuable enterprise systems need to be made safer, more maintainable and more future-proof.
+
+Good fit:
+
+- legacy .NET modernization,
+- WPF/WCF migration planning,
+- enterprise architecture support,
+- AI-assisted development workflows,
+- technical documentation and implementation planning,
+- secure application refactoring.
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/petrvitasek
+- X: https://x.com/empsolidity
+- Email: empsolidity@gmail.com
+
+---
+
+_Last update: June 2026_
