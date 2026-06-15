@@ -43,17 +43,25 @@ My goal is to use AI tools pragmatically: not as a replacement for engineering j
 
 ---
 
+## Current projects
+
+- Preparing migration strategy for large .NET Framework 4.8 applications.
+- Building Codex-ready instructions for source-code analysis and remediation.
+- Exploring AI-native workflows for prototyping and implementation planning.
+- Turning security findings into safe engineering tasks.
+
+---
+
 ## Technical background
 
-### Core stack
+## Core stack
 
-- C# / .NET Framework / .NET
-- WPF
-- WCF / RPC-style communication
-- MS SQL Server
-- proprietary ORM and data-access layers
-- IIS / Windows Server environments
-- Visual Studio / MSBuild / TFS / Git
+- .NET Framework / modern .NET
+- WPF, WCF, RPC-based enterprise systems
+- MS SQL, custom ORM, SQL-heavy business logic
+- CI/CD, migration planning, architecture documentation
+- ChatGPT, Codex, Lovable and AI-assisted delivery workflows
+- Security remediation and penetration-test follow-up
 
 ### Modernization & architecture
 
